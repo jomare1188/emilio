@@ -15,8 +15,8 @@ We download the raw count matrix from SRA (accession/bioproject:xxxxxxxxx) wich 
 * Data reading and filtering  ok
 * Preliminary analysis (PCA)  ok
 * Network construction (pearson correlation calculation and formating network) ok 
-* Module detection (mcl)
+* Module detection (mcl) ok
 * Functional enrichment
-* Heatmap plotting
+* Heatmap plotting ok
 * Network statistics
 
