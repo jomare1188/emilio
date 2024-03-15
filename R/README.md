@@ -19,4 +19,5 @@ We download the raw count matrix from SRA (accession/bioproject:xxxxxxxxx) wich 
 * Functional enrichment
 * Heatmap plotting ok
 * Network statistics
+* Module correlation with experimental conditions or traits
 
